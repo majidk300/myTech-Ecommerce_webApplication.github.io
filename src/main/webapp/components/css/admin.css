@@ -1,0 +1,9 @@
+.card{
+    border-radius:15px!important;
+    border:0.1px dashed #004d40!important;
+}
+
+.card:hover{
+    background: #ebecf0;
+    cursor:pointer;
+}
